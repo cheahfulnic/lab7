@@ -1,4 +1,4 @@
-# Topic: CLDQ
+# Topic: CLDQ (CSE Labs “Done Quick”)
 For this week's lab report, I'll be going through the steps of the lab competition. All key presses are done on VSCode and work on Mac. Read *Notes* if you are doing this for the first time. The keys pressed below were used by me to comfortably, efficiently, and quickly work with the command line after having already done the task before. Assume spaces within angle brackets have the form `<space>`.
   
 List of special key presses in order of appearance: **(ALL OTHER KEY PRESSES ARE LETTERS/SPACES ON THE KEYBOARD)**
